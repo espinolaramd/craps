@@ -1,6 +1,6 @@
 #Diego Espinola
 #10.23.19
-#craps program
+#craps program1
 
 import random
 
